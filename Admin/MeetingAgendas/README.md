@@ -1,7 +1,4 @@
 # Meeting Agendas
 
-All meeting agendas will be kept here. When a group member misses a meeting, they can consult the agenda for a summary of what was discussed.\
-\
-Agenda files will be titled with the following format:\
-**month.day_MeetingDescription** \
-where meeting description is TeamMeeting, TAMeeting, or SponsorMeeting
+A couple weeks into the semester it was decided that meeting agendas would be kept in the group's Google Drive for convenience. All team members please consult the drive for any necessary meeting records. If a non-team member needs access to these records, please contact Jared Gorthy at jared.gorthy@colorado.edu\
+
